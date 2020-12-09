@@ -1,5 +1,5 @@
 # 3D-Indentation
-Code and technical information corresponding to manuscript NCOMMS-20-20823-T
+This github contains code and technical information corresponding to manuscript NCOMMS-20-20823-T.
 
 The Matlab code has been used for the evaluation of mechanical characterisations of pollen grains as well as C. elegans. Using indentation-based characterisations, the local apparent stiffness of the corresponding specimen has been calculated.
 
