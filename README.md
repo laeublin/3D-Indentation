@@ -14,7 +14,7 @@ Furthermore, to simplify reproducibility of the experiments through interested r
 
 # Instructions for Matlab Code
 To calculate the system's internal stiffness, please run the following file: Correction_of_system_stiffness.m
-The extracted system stiffness (derived through the indentation of glass), is saved in the file: system_stiffness.txt
+The extracted system stiffness (derived through the indentation of glass), is saved in system_stiffness.txt and plot (.png and .fig) are produced for each measurement to allow for manual check of possible errors or unsuitable linearisations.
 
 Input the average value of the system's internal stiffness in AnalyzeGraph.m and specify the indentation experiment to be analysed.
 The data of the indentation experiment will be plotted in combination with a smoothed version to reduce noise. Additionally, the force-distance curve will be linearised to allow for the extraction of the apparent stiffness and the result will be displayed in the generated .jpg file.
