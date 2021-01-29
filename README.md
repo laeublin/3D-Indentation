@@ -12,6 +12,9 @@ Setup information:
 Furthermore, to simplify reproducibility of the experiments through interested readers, the technical drawing of the sensor holder (designed and fabricated by Daniel Bollier) and a .dwg-file of the mask used for the soft-lithography fabrication of the acoustic manipulation device (designed and fabrication by Nino Läubli) have been made available. Additionally, the source data of the graphs presented in NCOMMS-20-20823-T is provided in an Excel file.
 Further information on the setup components can be found in Vogler et al. (2020), Chapter 17 - Simultaneous measurement of turgor pressure and cell wall elasticity in growing pollen tubes, in Plant Cell Biology (pp. 297 - 310), Academic Press, doi: 10.1016/bs.mcb.2020.04.002
 
+Source data:
+The file Source_Data.xlsx contains all data presented in the manuscript figures.
+
 
 # Instructions for Matlab Code
 To calculate the system's internal stiffness, please run the following file in Matlab: Correction_of_system_stiffness.m
