@@ -1,5 +1,5 @@
 # 3D-Indentation
-This github contains Matlab code and general technical information corresponding to manuscript NCOMMS-20-20823-T.
+This github contains Matlab code and general technical information corresponding to manuscript NCOMMS-20-20823A.
 
 For code related to the simulation of pollen grain indentations, please access the following github: https://github.com/GabriellaMosca/PollenGrain_indentation
 
