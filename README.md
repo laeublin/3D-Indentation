@@ -23,4 +23,4 @@ The extracted system stiffness (derived through the indentation of glass), is sa
 Input the average value of the system's internal stiffness in AnalyzeGraph.m and specify the indentation experiment to be analysed.
 The data of the indentation experiment will be plotted in combination with a smoothed version to reduce noise. Additionally, the force-distance curve will be linearised to allow for the extraction of the apparent stiffness and the result will be displayed in the generated .jpg file.
 
-The code has been tested on Matlab R2020b and has a run time of less than 30 seconds.
+The code has been tested on Matlab R2020b and has a run time of less than 30 seconds. The code is available under the MIT License.
