@@ -1,5 +1,5 @@
 # 3D-Indentation
-This github contains Matlab code and general technical information corresponding to manuscript "3D Mechanical Characterization of Single Cells and Small Organisms using Acoustic Manipulation and Force Microscopy" by Nino F. Läubli, Jan T. Burri, Julian Marquard, Hannes Vogler, Gabriella Mosca, Nadia Vertti-Quintero, Naveen Shamsudhin, Andrew deMello, Ueli Grossniklaus, Daniel Ahmed, and Bradley J. Nelson.
+This github contains Matlab code and general technical information corresponding to the manuscript "3D Mechanical Characterization of Single Cells and Small Organisms using Acoustic Manipulation and Force Microscopy" by Nino F. Läubli, Jan T. Burri, Julian Marquard, Hannes Vogler, Gabriella Mosca, Nadia Vertti-Quintero, Naveen Shamsudhin, Andrew deMello, Ueli Grossniklaus, Daniel Ahmed, and Bradley J. Nelson.
 
 For code related to the simulation of pollen grain indentations, please access the following github: https://github.com/GabriellaMosca/PollenGrain_indentation
 
